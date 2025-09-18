@@ -1,0 +1,6 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: 2025-09-19
+  Features:
+    - Add constant combinator entity with color masks channels.
+    - Add constant combinator icon with color masks channels.
